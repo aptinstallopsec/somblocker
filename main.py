@@ -74,7 +74,7 @@ print(r"""
         ,'  ,-----'   |        \
         `--{__________)        \/
 
-Gemaakt door Spekkie
+Gemaakt door koolstof en spekkie bahez
 """)
 print("-----" * 20)
 
