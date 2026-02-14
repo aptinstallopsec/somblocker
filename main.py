@@ -74,7 +74,7 @@ print(r"""
         ,'  ,-----'   |        \
         `--{__________)        \/
 
-Gemaakt door koolstof en spekkie bahez
+Gemaakt door sterrenkunde, koolstof en spekkie bahez
 """)
 print("-----" * 20)
 
