@@ -1,5 +1,5 @@
-#Somtoday SOMBLOCKER
-##Blokkeert logins voor meerdere accounts
+# Somtoday SOMBLOCKER
+## Blokkeert logins voor meerdere accounts
 ![Logo](logo.png)
 #GEBRUIKSWIJZE EN BENODIGDHEDEN:
 ### - Windows laptop / Chromebook met linux-subsysteem
