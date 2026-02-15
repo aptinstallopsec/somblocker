@@ -1,7 +1,7 @@
 # Somtoday SOMBLOCKER
 ## Blokkeert logins voor meerdere accounts
 ![Logo](logo.png)
-#GEBRUIKSWIJZE EN BENODIGDHEDEN:
+# GEBRUIKSWIJZE EN BENODIGDHEDEN:
 ### - Windows laptop / Chromebook met linux-subsysteem
 ### - Python 3.10.x
 
