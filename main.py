@@ -56,7 +56,7 @@ def run():
             user = page.locator("#usernameField")
             pwd = page.locator("#password-field")
 
-            org.fill("OOZ")  # Fill your organization here
+            org.fill("Organisatie")  # Fill your organization here
             org.press("Enter")
 
             user.fill(username)
