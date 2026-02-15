@@ -14,7 +14,7 @@
 
 ## GEBRUIKSWIJZE:
 ### - Ga naar user.txt en voeg gebruikersnamen toe met de volgende syntax:
-gebruiker
-gebruiker1
+gebruiker  
+gebruiker1  
 gebruiker2
 ### - Run nu main.py
